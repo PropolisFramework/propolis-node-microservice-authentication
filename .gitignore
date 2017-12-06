@@ -223,6 +223,7 @@ pip-log.txt
 
 ## Directory-based project format:
 .idea/
+.vscode/
 
 #############
 ## PHP
